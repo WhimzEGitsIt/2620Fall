@@ -48,9 +48,6 @@
     <dwg name="35"/>
     <dwg name="37"/>
     <dwg name="37_1"/>
-    <dwg name="38"/>
-    <dwg name="39"/>
-    <dwg name="38_1"/>
    </drawings>
   </element>
   <element id="3" elementName="Back" elementFolder="Back" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -72,10 +69,10 @@
  </options>
  <timelineMarkers/>
  <scenes>
-  <scene name="Top" id="094c785c45105610" nbframes="77">
+  <scene name="Top" id="094c785c45105610" nbframes="44">
    <columns>
     <column type="0" name="Drawing" displayOrder="1" width="100" anonymous="true" id="1">
-     <elementSeq exposures="1-30,31-37,38-43,44-76" val="1" id="1"/>
+     <elementSeq exposures="1-30,31-37" val="1" id="1"/>
     </column>
     <column type="0" name="WaterSplash3" displayOrder="2" width="100" anonymous="true" id="2">
      <elementSeq exposures="1-13" val="1_1" id="2"/>
@@ -103,12 +100,9 @@
      <elementSeq exposures="35" val="35" id="2"/>
      <elementSeq exposures="36" val="37" id="2"/>
      <elementSeq exposures="37" val="37_1" id="2"/>
-     <elementSeq exposures="38" val="38_1" id="2"/>
-     <elementSeq exposures="44" val="38" id="2"/>
-     <elementSeq exposures="45" val="39" id="2"/>
     </column>
     <column type="0" name="Back" displayOrder="3" width="100" anonymous="true" id="3">
-     <elementSeq exposures="1-30,31-37,38-43,44-76" val="1" id="3"/>
+     <elementSeq exposures="1-30,31-37" val="1" id="3"/>
     </column>
    </columns>
    <options>
