@@ -106,6 +106,18 @@
     <dwg name="86"/>
     <dwg name="87"/>
     <dwg name="88"/>
+    <dwg name="89"/>
+    <dwg name="90"/>
+    <dwg name="91"/>
+    <dwg name="92"/>
+    <dwg name="93"/>
+    <dwg name="94"/>
+    <dwg name="95"/>
+    <dwg name="96"/>
+    <dwg name="97"/>
+    <dwg name="98"/>
+    <dwg name="99"/>
+    <dwg name="100"/>
    </drawings>
   </element>
  </elements>
@@ -125,13 +137,13 @@
   <scene name="Top" id="09614a3727c009eb" nbframes="275">
    <columns>
     <column type="0" name="Table" displayOrder="3" width="100" anonymous="true" id="1">
-     <elementSeq exposures="1-100" val="1" id="1"/>
+     <elementSeq exposures="1-100,101-170" val="1" id="1"/>
     </column>
     <column type="0" name="Background" displayOrder="4" width="100" anonymous="true" id="2">
      <elementSeq exposures="1-274" val="1" id="2"/>
     </column>
     <column type="0" name="Person" displayOrder="2" width="100" anonymous="true" id="3">
-     <elementSeq exposures="1-100" val="1" id="3"/>
+     <elementSeq exposures="1-100,101-170" val="1" id="3"/>
     </column>
     <column type="0" name="Mouthmoving" displayOrder="1" width="100" anonymous="true" id="4">
      <elementSeq exposures="1-9" val="1" id="4"/>
@@ -222,6 +234,18 @@
      <elementSeq exposures="94" val="86" id="4"/>
      <elementSeq exposures="95" val="87" id="4"/>
      <elementSeq exposures="96" val="88" id="4"/>
+     <elementSeq exposures="108" val="89" id="4"/>
+     <elementSeq exposures="109" val="90" id="4"/>
+     <elementSeq exposures="110" val="91" id="4"/>
+     <elementSeq exposures="111" val="92" id="4"/>
+     <elementSeq exposures="112" val="93" id="4"/>
+     <elementSeq exposures="113" val="94" id="4"/>
+     <elementSeq exposures="114" val="95" id="4"/>
+     <elementSeq exposures="115" val="96" id="4"/>
+     <elementSeq exposures="116" val="97" id="4"/>
+     <elementSeq exposures="117" val="98" id="4"/>
+     <elementSeq exposures="118" val="99" id="4"/>
+     <elementSeq exposures="119" val="100" id="4"/>
     </column>
    </columns>
    <options>
