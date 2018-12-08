@@ -613,10 +613,10 @@
     <column type="0" name="Airplane" displayOrder="6" width="100" anonymous="true" id="1">
      <elementSeq exposures="1-287" val="1" id="1"/>
     </column>
-    <column type="0" name="Background" display="false" displayOrder="7" width="100" anonymous="true" id="2">
+    <column type="0" name="Background" displayOrder="7" width="100" anonymous="true" id="2">
      <elementSeq exposures="1-274,275-287" val="1" id="2"/>
     </column>
-    <column type="0" name="Person" displayOrder="5" width="100" anonymous="true" id="3">
+    <column type="0" name="Person" display="false" displayOrder="5" width="100" anonymous="true" id="3">
      <elementSeq exposures="1-100,101-170,171-287" val="1" id="3"/>
     </column>
     <column type="0" name="Mouthmoving" displayOrder="1" width="100" anonymous="true" id="4">
@@ -1793,6 +1793,7 @@
      </module>
      <module type="READ" name="Person" pos="0,0,0" publishUnderTab="Person">
       <options>
+       <disabled val="true"/>
        <locked val="true"/>
        <version val="1"/>
        <collapsed val="false"/>
@@ -2003,7 +2004,6 @@
      </module>
      <module type="READ" name="Background" pos="0,0,0" publishUnderTab="Background">
       <options>
-       <disabled val="true"/>
        <locked val="true"/>
        <version val="1"/>
        <collapsed val="false"/>
