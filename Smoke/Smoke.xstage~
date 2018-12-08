@@ -184,10 +184,10 @@
      <elementSeq exposures="62" val="62" id="3"/>
      <elementSeq exposures="63" val="63" id="3"/>
     </column>
-    <column type="0" name="Guide" display="false" displayOrder="3" width="100" anonymous="true" id="4">
+    <column type="0" name="Guide" displayOrder="3" width="100" anonymous="true" id="4">
      <elementSeq exposures="1-60" val="1_1" id="4"/>
     </column>
-    <column type="0" name="SmokeShadows" displayOrder="1" width="100" anonymous="true" id="5">
+    <column type="0" name="SmokeShadows" display="false" displayOrder="1" width="100" anonymous="true" id="5">
      <elementSeq exposures="15" val="15" id="5"/>
     </column>
    </columns>
@@ -252,6 +252,8 @@
      </module>
      <module type="READ" name="SmokeShadows" pos="0,0,0" publishUnderTab="SmokeShadows">
       <options>
+       <disabled val="true"/>
+       <locked val="true"/>
        <version val="1"/>
        <collapsed val="false"/>
       </options>
@@ -461,6 +463,7 @@
      <module type="READ" name="Guide" pos="0,0,0" publishUnderTab="Guide">
       <options>
        <disabled val="true"/>
+       <locked val="true"/>
        <version val="1"/>
        <collapsed val="false"/>
       </options>
