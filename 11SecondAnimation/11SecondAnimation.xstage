@@ -618,7 +618,7 @@
  </options>
  <timelineMarkers/>
  <scenes>
-  <scene name="Top" id="09614a3727c009eb" nbframes="290">
+  <scene name="Top" id="09614a3727c009eb" nbframes="287">
    <columns>
     <column type="0" name="Airplane" display="false" displayOrder="5" width="100" anonymous="true" id="1">
      <elementSeq exposures="1-287" val="1" id="1"/>
