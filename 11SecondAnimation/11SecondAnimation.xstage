@@ -292,6 +292,9 @@
     <dwg name="274"/>
     <dwg name="275"/>
     <dwg name="276"/>
+    <dwg name="285"/>
+    <dwg name="286"/>
+    <dwg name="287"/>
    </drawings>
   </element>
   <element id="5" elementName="RealBody" elementFolder="RealBody" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -586,6 +589,9 @@
     <dwg name="283"/>
     <dwg name="284"/>
     <dwg name="285"/>
+    <dwg name="285_2"/>
+    <dwg name="286_1"/>
+    <dwg name="287"/>
    </drawings>
   </element>
   <element id="8" elementName="CloudinFront" elementFolder="CloudinFront" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -897,6 +903,9 @@
      <elementSeq exposures="282" val="231" id="4"/>
      <elementSeq exposures="283" val="232" id="4"/>
      <elementSeq exposures="284" val="233" id="4"/>
+     <elementSeq exposures="285" val="285" id="4"/>
+     <elementSeq exposures="286" val="286" id="4"/>
+     <elementSeq exposures="287" val="287" id="4"/>
     </column>
     <column type="3" name="ATV-0961C65DD053B483" displayOrder="8" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
@@ -1025,7 +1034,7 @@
       <pt constSeg="false" x="1,40,80,120,160,200,240,287" yLocal="0" y="0"/>
      </points>
     </column>
-    <column type="0" name="GooglesNoseChin" display="false" displayOrder="3" width="100" anonymous="true" id="7">
+    <column type="0" name="GooglesNoseChin" displayOrder="3" width="100" anonymous="true" id="7">
      <elementSeq exposures="1" val="3" id="7"/>
      <elementSeq exposures="2" val="4" id="7"/>
      <elementSeq exposures="3" val="5" id="7"/>
@@ -1310,6 +1319,9 @@
      <elementSeq exposures="282" val="283" id="7"/>
      <elementSeq exposures="283" val="284" id="7"/>
      <elementSeq exposures="284" val="285" id="7"/>
+     <elementSeq exposures="285" val="285_2" id="7"/>
+     <elementSeq exposures="286" val="286_1" id="7"/>
+     <elementSeq exposures="287" val="287" id="7"/>
     </column>
     <column type="3" name="ATV-0962474EF56574A0" displayOrder="22" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
