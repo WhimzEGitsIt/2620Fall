@@ -9,9 +9,6 @@
  <Element Name="Background" ID="2" Folder="Background">
   <Drawing Key="" Name="1" Version="1"/>
  </Element>
- <Element Name="Person" ID="3" Folder="Person">
-  <Drawing Key="" Name="1" Version="1"/>
- </Element>
  <Element Name="Mouthmoving" ID="4" Folder="Mouthmoving">
   <Drawing Key="" Name="1" Version="1"/>
   <Drawing Key="" Name="2" Version="1"/>
@@ -293,7 +290,6 @@
  <Element Name="RealBody" ID="5" Folder="RealBody">
   <Drawing Key="" Name="1" Version="1"/>
  </Element>
- <Element Name="Helmet" ID="6" Folder="Helmet"/>
  <Element Name="GooglesNoseChin" ID="7" Folder="GooglesNoseChin">
   <Drawing Key="" Name="1" Version="1"/>
   <Drawing Key="" Name="2" Version="1"/>

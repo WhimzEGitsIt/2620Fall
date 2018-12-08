@@ -13,3 +13,7 @@ Solid    "New 3"                    0x0961d79387f1155d 163 163 163 255
 Solid    "Vectorized Line"          0x0000000000000003  25  23  23 255
 Solid    "New 0"                    0x0961d951108b0be6 103  61  61 255
 Solid    "New 1"                    0x0961d951108b0c71 255 255 255 255
+Solid    "New 0"                    0x0962474ef561d79d  50  50  50 255
+Solid    "New 1"                    0x0962474ef5673b9d 230 230 230 255
+Solid    "New 2"                    0x0962474ef567f9ce 100 100 100 255
+Solid    "New 3"                    0x0962474ef5697431 131   0   0 255
